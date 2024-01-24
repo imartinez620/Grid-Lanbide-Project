@@ -6,6 +6,10 @@
 
 "Heading and Bullet Point Styles in Grid Columns" --> https://basque.devcamp.com/pt-full-stack-development-javascript-python-react/guide/adding-custom-heading-bullet-point-styles-grid-columns
 
+"CSS Grid Repeat Function to Render a Dynamic Number of Rows" --> https://basque.devcamp.com/pt-full-stack-development-javascript-python-react/guide/guide-css-grid-repeat-function-render-dynamic-number-rows
+
+
+
 
 
 
