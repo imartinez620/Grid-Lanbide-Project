@@ -8,6 +8,10 @@
 
 "CSS Grid Repeat Function to Render a Dynamic Number of Rows" --> https://basque.devcamp.com/pt-full-stack-development-javascript-python-react/guide/guide-css-grid-repeat-function-render-dynamic-number-rows
 
+"Combining CSS Grid with Media Queries to Implement a Responsive Layout" --> https://basque.devcamp.com/pt-full-stack-development-javascript-python-react/guide/combining-css-grid-media-queries-implement-responsive-layout
+
+-If media query does not work add the below line of code to the head tag in the index.html file
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 
 
 
